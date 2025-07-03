@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeElMasri&layout=compact&theme=radical)
 
 
-### 🕓 Contribution Activity
+<!-- 🕓 Contribution Activity-->
 
+<!-- This is a hidden comment in Markdown -->
