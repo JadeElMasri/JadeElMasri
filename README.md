@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Jade El Masri
+
+## 🧠 My Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JadeElMasri&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JadeElMasri&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=JadeElMasri&theme=radical&hide_border=false)
+
+## 🕓 Contribution Activity
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JadeElMasri&theme=github-dark)
